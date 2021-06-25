@@ -6,7 +6,7 @@ public class Program {
 
 		System.out.println("Olá Mundo");
 		System.out.println("Teste de Commit");
-		//novo commit, new
+		System.out.println("Bom dia!");
 
 	}
 
